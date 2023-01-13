@@ -1,0 +1,272 @@
+
+.hh {
+    
+  
+  margin-top: 10px;
+  justify-content: right;
+  display:flex;
+  justify-content: space-between;
+
+  
+
+
+}
+.kk{
+    /* margin-left:10px; */
+    /* display:flex ; */
+    margin-left:2px;
+
+}
+
+
+.table{
+  border: 1px solid black;
+  float:right;
+  margin-top: 30px;
+  margin-right: 100px;
+  height: 400px;
+  width: 250px;
+  background-color: white;
+
+}
+.mydiv{
+  text-align:center;
+ 
+}
+.table1{
+  justify-content: left;
+  
+}
+.tt{
+  justify-content: left;
+  padding-left: 70px;
+  text-align: left;
+  justify-content: left;
+  padding-top: -1800px;
+}
+.table3{
+  justify-content: left;
+}
+.table8{
+  justify-content: left;
+  border: 2px solid skyblue;
+  background-color: skyblue;
+}
+.mydiv2{
+  text-align: left;
+  margin-left: 40px;
+}
+.ss{
+  text-align: center;
+}
+.block{
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: aqua;
+  color:black;
+  text-align: center;
+}
+.kk1{
+ margin-right: 80px;
+ width: 20px;
+ text-align: center;
+ height: 20px;
+ justify-content: space-between;
+
+}
+.table5{
+  display: flex;
+  justify-content: space-between;
+  width: 33.33%;
+}
+#main {
+  width: 33.33%px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  margin-right: 80px;
+
+}
+
+#main div {
+  -ms-flex: 3;  /* IE 10 */  
+  flex: 4;
+  margin: 30px;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 60px;
+}
+.img{
+  border-radius: 8px;
+  height:30%;
+  justify-content: center;
+}
+#main1 {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  margin-right: 80px;
+
+}
+
+#main1 div {
+  -ms-flex: 3;  /* IE 10 */  
+  flex: 2;
+  margin: 44px;
+  justify-content:left;
+  text-align: center;
+  margin-bottom: 60px;
+
+}
+.block2{
+  text-align:center;
+  margin-left: 50px;
+}
+.block5{
+  color: blue;
+  margin-top: 25px;
+  border: 2px solid purple;
+  background-color: white;
+  justify-content: center;
+  margin-left: 150px;
+}
+
+.block6{
+  color: blue;
+  margin-top: 25px;
+  border: 2px solid purple;
+  background-color: white;
+  height: 20px;
+}
+.block8{
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: pink;
+  color:black;
+  text-align: center;
+  margin-top: 50px;
+}
+.top{
+  margin: 10px;
+  justify-content: baseline;
+  justify-content: space-between;
+
+
+}
+.NR{
+  border: 2px red;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: whitesmoke;
+  height: 50px;
+}
+#grad1 {
+  height: 120px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(rgb(71, 71, 247),rgb(86, 65, 203));
+  margin-left: 1300px;
+  padding-top: -1500px;
+
+}
+input{
+  width: 90%;
+}
+.table1{
+  padding-top: -1800px;
+  margin-top: -5%;
+}
+#main4 {
+  width: 33.33%px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  margin-right: 80px;
+  display: inline;
+  text-align: column;
+
+}
+
+#main4 div {
+  -ms-flex: 3;  /* IE 10 */  
+  flex: 4;
+  margin: 30px;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 60px;
+  display: inline;
+}
+.kk s1{
+  border: 2px solid white;
+}
+.kkP
+{
+  justify-content: center;
+  width: 100%;
+}
+  .kkP1{
+    border: 2px solid white;
+    width: 100%;
+  
+}input[type=text], select {
+  width: 100%;
+  padding: 12px 5px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-sizing: border-box;
+  justify-content: center;
+  
+}
+input[type=submit] {
+  width: 40%;
+  background-color: #311fd4;
+  color: rgb(163, 50, 50);
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  justify-content: center;
+}
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+.mydiv4{
+
+  border-radius: 3px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  justify-content: center;
+  margin-left: 420px;
+}
+.block9{
+  color: blue;
+  margin-top: 25px;
+  border: 2px solid purple;
+  background-color: white;
+  justify-content: center;
+  margin-left: 750px;
+}
+#main44 {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  margin-right: 80px;
+
+}
+
+#main44 div {
+  -ms-flex: 3;  /* IE 10 */  
+  flex: 2;
+  margin: 44px;
+  justify-content:left;
+  text-align: center;
+  margin-bottom: 60px;
+
+}
+
